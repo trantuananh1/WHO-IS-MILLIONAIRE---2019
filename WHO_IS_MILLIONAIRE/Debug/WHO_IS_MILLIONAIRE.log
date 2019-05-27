@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\c++ projects\who_is_millionaire\who_is_millionaire\listcauhoi.h(39): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  WHO_IS_MILLIONAIRE.vcxproj -> D:\C++ Projects\WHO_IS_MILLIONAIRE\Debug\WHO_IS_MILLIONAIRE.exe

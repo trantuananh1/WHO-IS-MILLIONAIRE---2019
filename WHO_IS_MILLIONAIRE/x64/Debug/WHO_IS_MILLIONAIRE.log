@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\admin\desktop\who_is_millionaire\who_is_millionaire\listcauhoi.h(40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\admin\desktop\who_is_millionaire\who_is_millionaire\csl.h(9): warning C4005: '_WIN32_WINNT': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\sdkddkver.h(216): note: see previous definition of '_WIN32_WINNT'
+c:\users\admin\desktop\who_is_millionaire\who_is_millionaire\csl.h(32): warning C4273: 'GetConsoleWindow': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\consoleapi3.h(177): note: see previous definition of 'GetConsoleWindow'
+c:\users\admin\desktop\who_is_millionaire\who_is_millionaire\csl.h(45): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\admin\desktop\who_is_millionaire\who_is_millionaire\csl.h(155): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\admin\desktop\who_is_millionaire\who_is_millionaire\menu.h(47): warning C4102: 'MenuChinh': unreferenced label
+  WHO_IS_MILLIONAIRE.vcxproj -> C:\Users\ADMIN\Desktop\WHO_IS_MILLIONAIRE\x64\Debug\WHO_IS_MILLIONAIRE.exe
